@@ -1,0 +1,47 @@
+[
+    {
+      "id": 1,
+      "authorName": "Mr.Raju",
+      "blogTitle": "How to get your first job as a self taught programmer",
+      "blogCoverImage": "https://img.freepik.com/free-photo/rear-view-programmer-working-all-night-long_1098-18697.jpg?w=740&t=st=1680269782~exp=1680270382~hmac=5a0658251664ac09b54eb8bee060a40bc63fbe1b19d08334d404fa0ea3391fba",
+      "authorImage": "https://img.freepik.com/free-photo/handsome-confident-smiling-man-with-hands-crossed-chest_176420-18743.jpg?w=740&t=st=1680270309~exp=1680270909~hmac=b491ae302ac4acb2686e1d2e3bbebcd5f8b28382115b1ad0dd0496c113e684aa",
+      "authorReadTime": 12,
+      "publishDate": "Mar 14 (4 days ago)"           
+    },
+    {
+        "id": 2,
+        "authorName": "Mr.William",
+        "blogTitle": "Learn from the journey",
+        "blogCoverImage": "https://img.freepik.com/premium-photo/hacker-hooded-dangerous-hacking-information-government-data-servers-get-password-insert-their-virus-system-unlock-break-down-personal-data-software_255544-235.jpg?w=740",
+        "authorImage": "https://img.freepik.com/premium-photo/young-handsome-man-with-beard-isolated-keeping-arms-crossed-frontal-position_1368-132662.jpg?w=740",
+        "authorReadTime": 10,
+        "publishDate": "Apr 18 (9 days ago)"           
+      },
+      {
+        "id": 3,
+        "authorName": "Mr.Jonson",
+        "blogTitle": " Have fun along the way",
+        "blogCoverImage": "https://img.freepik.com/free-photo/paper-analysis_1098-15678.jpg?t=st=1680239684~exp=1680240284~hmac=f30b609e788e6cc2533f71316f21dfba8a5734446652726679a70198cf765c1f",
+        "authorImage": "https://img.freepik.com/free-photo/confident-attractive-caucasian-guy-beige-pullon-smiling-broadly-while-standing-against-gray_176420-44508.jpg?w=740&t=st=1680270341~exp=1680270941~hmac=2b58d34e780187fa64d6cede0c2baab07469e80fd20fe596a1546d899d530f2f",
+        "authorReadTime": 15,
+        "publishDate": "June 20 (9 days ago)"           
+      },
+      {
+        "id": 4,
+        "authorName": "Mr.David",
+        "blogTitle": "Change your perspective",
+        "blogCoverImage": "https://img.freepik.com/free-photo/close-up-businesswoman-pointing-digital-tablet_1098-1875.jpg?t=st=1680239684~exp=1680240284~hmac=f36bd6ecff049715a096358bbf6c2b38b514d15bb0f3359cb3e5c64afce7c91c",
+        "authorImage": "https://img.freepik.com/free-photo/man-working-night_1098-12798.jpg?w=740&t=st=1680269934~exp=1680270534~hmac=783c64743f394376a257fd99783819ffb2710bfa2c335c14cf0121eeff2a5afe",
+        "authorReadTime": 11,
+        "publishDate": "July 24 (10 days ago)"           
+      },
+      {
+        "id": 5,
+        "authorName": "Mr.Sam",
+        "blogTitle": "Be honest with yourself",
+        "blogCoverImage": "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010142.jpg?w=740&t=st=1680270407~exp=1680271007~hmac=4d53d0122c87e82bdbaeeba7ab1f68879812121f941302046bb99c8e1fee4cac",
+        "authorImage": "https://img.freepik.com/premium-photo/portrait-smiling-caucasian-man-green-tshirt-white-grey-background-mockup-copy-space-closeup_108611-2503.jpg?w=740",
+        "authorReadTime": 13,
+        "publishDate": "Jan 30 (2 days ago)"           
+      }
+  ]
